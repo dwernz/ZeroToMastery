@@ -1,0 +1,33 @@
+h2 {
+    color: #00BEEF;
+}
+
+.boxmodel {
+    border: 5px solid red;
+    display: inline-block;
+    padding: 5px 20px 5px 20px;
+    margin: 0px 20px;
+    width: 33px;
+    height: 55px;
+    text-align: center;
+}
+
+#a {
+    border: 5px solid red;
+}
+
+#b {
+    border: 5px solid blue;
+}
+
+#c {
+    border: 5px solid green;
+}
+
+p {
+    font-size: 20px;
+}
+
+span {
+    font-size: 3rem;
+}
